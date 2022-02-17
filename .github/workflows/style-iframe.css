@@ -1,0 +1,91 @@
+/** Style IFRAME Hellowork **/
+
+.carrier .container h3 {
+    font-size:22px !important;
+    font-family:'Poppins' !important;
+    font-weight:400 !important;
+    color:#23308E !important;
+    margin: 0px !important;
+}
+
+.page-content>.container {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    background-color: white !important;
+}
+
+.carrier .container .card {
+    background-color: #fff !important;
+    margin-bottom: 30px !important;
+    width: 100% !important;
+    font-family:'Poppins' !important;
+    border: 1px solid rgba(106, 117, 144, 0.3) !important;
+}
+
+.container {
+    padding:0px !important;
+}
+
+
+.page-content {
+    padding-top: 0 !important;
+    padding-bottom: 0px !important;
+}
+
+.listheader {
+    overflow: hidden !important;
+    margin-bottom: 48px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+
+.button-ghost.small, .small.button-ghost-small, .small.button-ghost-small-blue {
+    font-size: 14px !important;
+    line-height: 32px !important;
+    height: 34px !important;
+    font-family: 'Poppins'!important;
+}
+
+.link-footer:hover {
+    opacity: 0.8;
+}
+
+.nav-link:hover {
+    opacity: 0.8;
+}
+
+
+li.active {
+    background-color:#23308E !important;
+        border-radius:4px !important;
+}
+
+
+
+.carrier.list .pagination  {
+  font-family: 'Poppins'!important;
+}
+
+.carrier.list .pagination ul li.active span {
+    background-color:#23308E !important;
+    color:white !important;
+    font-size:16px !important;
+
+}
+
+.pagination ul li {
+    display: inline-block !important;
+    margin-right: 10px !important;
+    vertical-align: middle !important;
+}
+
+.carrier.list .pagination ul li a:hover, .carrier.list .pagination ul li span:hover {
+    background-color: white !important;
+    color: #6A707D !important;
+    text-decoration: none !important;
+    border:1px solid #969eb170 !important;
+     font-size: 16px !important;
+}
+
